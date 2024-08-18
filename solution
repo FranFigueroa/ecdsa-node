@@ -1,0 +1,10 @@
+Solution
+
+1) Generate a private keys and public keys from private keys
+2) Change the name of the balances for public keys, 3 differents
+
+3) Implement some Signature
+
+Must Add:
+4) Get a signature from the client-side application
+5) Recover the public address from the signature 
